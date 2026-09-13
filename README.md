@@ -1,0 +1,2 @@
+# Tirador
+Game prueba
